@@ -1,19 +1,23 @@
 # Samantha Omandam
 
-## Cybersecurity Student | SOC Analyst | Threat Hunter
+## Cybersecurity Student | IT System Technologist Co-op | Digital Forensics
 
-**Currently:** Cybersecurity & Threat Management Student @ Seneca Polytechnic (4.0 GPA)  
-**Seeking:** Summer 2026 SOC / Security Analyst Co-op  
-**Certifications:** Security+ Certified | SIEM, Log Analysis & Threat Detection Specialist
+**Currently:** IT System Technologist (Co-op) @ Seneca ITS (SSD) | Cybersecurity & Threat Management Student @ Seneca Polytechnic
+**Certifications:** CompTIA Security+ | Google Cybersecurity Professional | 
+Qualys VM | AWS Cloud Security Foundations 
 
 ---
 
 ### About Me
 
-Passionate cybersecurity student with hands-on experience in **Security Operations**, **Incident Response**, and **Digital Forensics**. I thrive on identifying threats, analyzing security events, and protecting systems from evolving cyberattacks.
+IT System Technologist Co-op @ Seneca ITS | Cybersecurity & Threat Management 
+Student @ Seneca Polytechnic with hands-on experience in **Security Operations**, 
+**Incident Response**, and **Digital Forensics**. I thrive on identifying threats, 
+analyzing security events, and protecting systems from evolving cyberattacks.
 
-- Currently mastering **SIEM tools** (Splunk, QRadar), **Wireshark**, and **Kali Linux**
-- Building cybersecurity labs for **penetration testing** and **malware analysis**
+- Currently working as **IT System Technologist Co-op @ Seneca ITS (SSD)**
+- Mastering **SIEM tools** (Splunk, QRadar), **Wireshark**, and **Kali Linux**
+- Hands-on experience in **Mobile Forensics** and **Digital Investigations** (CTFs)
 - Pursuing certifications: **CHFI** and **OSINT Specialist**
 - Focus areas: **SOC Operations**, **Incident Response**, **Threat Intelligence**, **Digital Forensics**
 
@@ -25,7 +29,12 @@ Passionate cybersecurity student with hands-on experience in **Security Operatio
 `Splunk` `IBM QRadar` `Wireshark` `Kali Linux` `Metasploit` `Nmap` `Burp Suite` `MITRE ATT&CK`
 
 **Security Concepts:**  
-`SIEM` `Incident Response` `Threat Detection` `Log Analysis` `Digital Forensics` `Penetration Testing` `Vulnerability Assessment` `Network Security`
+`SIEM` `Incident Response` `Threat Detection` `Log Analysis` `Digital Forensics` 
+`Mobile Forensics` `Penetration Testing` `Vulnerability Assessment` `Network Security`
+
+**IT & Support:**  
+`Active Directory` `Help Desk Support` `IT Support` `Technical Support` 
+`Windows OS` `Troubleshooting`
 
 **Programming & Scripting:**  
 `Python` `Bash` `PowerShell` `SQL`
@@ -35,17 +44,15 @@ Passionate cybersecurity student with hands-on experience in **Security Operatio
 
 ---
 
-### GitHub Stats
-
-![Samantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samohdamn&show_icons=true&theme=tokyonight)
+### Certifications
+- CompTIA Security+
+- Google Cybersecurity Professional Certificate
+- Qualys VM
+- AWS Cloud Security Foundations
 
 ---
 
 ### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-omandam/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssomandam@myseneca.ca)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samantha%20Omandam-blue)](https://linkedin.com/in/samantha-omandam)
 
 *"Security is not a product, but a process." - Bruce Schneier*
