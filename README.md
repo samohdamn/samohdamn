@@ -3,6 +3,7 @@
 ## Cybersecurity Student | IT System Technologist Co-op | Digital Forensics
 
 **Currently:** IT System Technologist (Co-op) @ Seneca ITS (SSD) | Cybersecurity & Threat Management Student @ Seneca Polytechnic
+
 **Certifications:** CompTIA Security+ | Google Cybersecurity Professional | 
 Qualys VM | AWS Cloud Security Foundations 
 
